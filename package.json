@@ -17,5 +17,13 @@
     "winston-papertrail": "^1.0.5"
   },
   "author": "Mukul <mukul1904@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myke11j/jsfusion-alexa-skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/myke11j/jsfusion-alexa-skill/issues"
+  },
+  "homepage": "https://github.com/myke11j/jsfusion-alexa-skill#readme"
 }

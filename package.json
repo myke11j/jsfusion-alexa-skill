@@ -1,0 +1,21 @@
+{
+  "name": "jsfusion-alexa-skill",
+  "version": "1.0.0",
+  "description": "Lambda function for an Alexa Skill for JSFusion Nov 2017 meetup",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "dev:lambda": "node-lambda run",
+    "dev:lambda-deploy": "node-lambda deploy"
+  },
+  "keywords": [
+    "alexa",
+    "jsfusion"
+  ],
+  "dependencies": {
+    "winston": "^2.4.0",
+    "winston-papertrail": "^1.0.5"
+  },
+  "author": "Mukul <mukul1904@gmail.com>",
+  "license": "ISC"
+}
